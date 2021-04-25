@@ -2,9 +2,8 @@
 [My personal weblog](https://komeilparseh.github.io)
 And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.io/@parseh) 🔗
 
-- 🔭 I’m currently working on [nomreazma project](https://github.com/Online-test-system-Nomre)
+- 🔭 I'm not working on anything right now!
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on linux-kernel
 - 🤔  I’m looking for help with any project!
 - 📫 How to reach me: Email to [parsehkp+gh@gmail.com](maillto:parsehkp+gh@gmail.com)
 - ⚡ Fun fact: Programming and reading books

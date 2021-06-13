@@ -1,6 +1,6 @@
 ### Hi there 👋
 [My personal weblog](https://komeilparseh.github.io)
-And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.io/@parseh) 🔗
+And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.io/@komeilparseh) 🔗
 
 - 🔭 I'm not working on anything right now!
 - 🌱 I’m currently learning python

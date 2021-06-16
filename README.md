@@ -5,7 +5,7 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 - 🔭 I'm not working on anything right now!
 - 🌱 I’m currently learning python
 - 🤔  I’m looking for help with any project!
-- 📫 How to reach me: Email to [parsehkp+gh@gmail.com](maillto:parsehkp+gh@gmail.com)
+- 📫 How to reach me: Email to <parsehkp+gh@gmail.com>
 - ⚡ Fun fact: Programming and reading books
 - ⭐ And other things that are not here!
 

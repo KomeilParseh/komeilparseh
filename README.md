@@ -10,4 +10,4 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 - ⭐ And other things that are not here!
 
 [![komeilparseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=komeilparseh)](https://github.com/komeilparseh/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilparseh&layout=compactff)](https://github.com/komeilparseh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilparseh&layout=compact)](https://github.com/komeilparseh)

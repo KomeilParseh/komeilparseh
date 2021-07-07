@@ -7,7 +7,6 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 - 🌱 I’m currently learning python
 - 🤔  I’m looking for help with any project!
 - 📫 How to reach me: Email to <parsehkp+gh@gmail.com>
-- ⚡ Fun fact: Programming and reading books
 - ⭐ And other things that are not here!
 
 [![komeilparseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=komeilparseh)](https://github.com/komeilparseh/)

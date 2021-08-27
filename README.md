@@ -21,4 +21,7 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilparseh&layout=compact)](https://github.com/komeilparseh)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->

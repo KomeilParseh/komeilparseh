@@ -20,8 +20,12 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 [![komeilparseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=komeilparseh)](https://github.com/komeilparseh/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilparseh&layout=compact)](https://github.com/komeilparseh)
 
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->

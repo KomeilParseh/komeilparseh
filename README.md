@@ -23,6 +23,10 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozlink!](https://KomeilParseh.github.io/blog/2021/May/04/Mozlink/)
+- [Read docx file with python in command line](https://KomeilParseh.github.io/blog/2021/May/01/Read%20docx%20file%20with%20python%20in%20command%20line/)
+- [Git Cheat Sheet](https://KomeilParseh.github.io/blog/2021/Mar/31/git%20cheat%20sheet/)
+- [License and about This site](https://KomeilParseh.github.io/blog/2021/Mar/31/License/)
 <!-- BLOG-POST-LIST:END -->
 
 📊 **Weekly development breakdown**

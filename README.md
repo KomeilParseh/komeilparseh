@@ -32,4 +32,7 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->

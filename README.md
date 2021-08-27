@@ -1,4 +1,8 @@
-<!--PoweBy https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5-->
+<!--
+PowerBy :
+https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+https://github.com/athul/athul
+-->
 
 # Hi there 👋
 

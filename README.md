@@ -21,8 +21,14 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
   <a href="mailto:ahmdparsh129@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px">   </a>
 </p>
 
-[![komeilparseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=komeilparseh)](https://github.com/komeilparseh/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilparseh&layout=compact)](https://github.com/komeilparseh)
+<p align="center">
+  <a href="https://github.com/komeilparseh">
+      <img src="https://github-readme-stats.vercel.app/api?username=komeilparseh">
+  </a> 
+    <a href="https://github.com/komeilparseh">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komeilparseh&layout=compact">
+    </a>
+</p>
 
 **📝 Latest Blog Posts**
 

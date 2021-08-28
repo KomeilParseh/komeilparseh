@@ -43,6 +43,6 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+VimL   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->

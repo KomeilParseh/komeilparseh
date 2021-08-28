@@ -43,6 +43,10 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 
 <!--START_SECTION:waka-->
 ```text
-VimL   2 mins          █████████████████████████   100.00 % 
+Emacs Lisp   35 mins         █████████████░░░░░░░░░░░░   52.59 % 
+Rust         13 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.68 % 
+Other        10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+INI          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+VimL         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 <!--END_SECTION:waka-->

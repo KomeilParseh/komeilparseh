@@ -41,8 +41,8 @@ And my persian blog in [virgool](https://virgool.io) is [Link](https://virgool.i
 
 📊 **Weekly development breakdown**
 
-<!--START_SECTION:waka-->
-```text
-VimL   2 mins          █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+<p align="center">
+  <a href="https://github.com/KomeilParseh">
+    <img src="https://github.com/KomeilParseh/komeilparseh/blob/main/images/stat.svg" alt="Alternative Text"/>
+  </a>
+</p>

@@ -15,7 +15,7 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEYY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # WakaTime API key stored in secrets, do not directly paste it here
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
